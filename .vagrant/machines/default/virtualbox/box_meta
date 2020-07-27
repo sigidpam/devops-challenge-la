@@ -1,1 +1,1 @@
-{"name":"ubuntu/xenial64","version":"20200724.0.0","provider":"virtualbox","directory":"boxes/ubuntu-VAGRANTSLASH-xenial64/20200724.0.0/virtualbox"}
+{"name":"bento/ubuntu-18.04","version":"202007.17.0","provider":"virtualbox","directory":"boxes/bento-VAGRANTSLASH-ubuntu-18.04/202007.17.0/virtualbox"}
